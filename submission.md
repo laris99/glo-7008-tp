@@ -1,7 +1,7 @@
 # Description de la remise
 
-### Nom complet: XXXXX
-### NIP: 111 111 111
+### Nom complet: Laris Babou
+### NIP: 536 951 333
 ### Liste des codes et descriptions des fonctionnalités sélectionnées:
 Exemple:
 - (FA2) Intégration du Service Mesh Consul-Connect ==> 5%
